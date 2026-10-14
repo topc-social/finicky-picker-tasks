@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-10-14 | Kamal Khatwani | Idea for #1: profile picker that learns | 15 | provisional | [#1](https://github.com/topc-social/finicky-picker-tasks/issues/1) |
+| 2 | 2026-10-14 | Kamal Khatwani | Work on #1: profile picker that learns | 1,485 | provisional | [#1](https://github.com/topc-social/finicky-picker-tasks/issues/1) |
