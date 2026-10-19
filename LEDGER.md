@@ -22,3 +22,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 14 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #11: Install steps after Download, with a button that opens Privacy & Security | 792 | provisional | https://github.com/kamal0808/profiley/pull/6 |
 | 15 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #12: Faster link opening, and warn about the default-browser prompt in setup | 15 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/12 |
 | 16 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #12: Faster link opening, and warn about the default-browser prompt in setup | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/7 |
+| 17 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #13: Pictures on the install page: the block warning and Open Anyway | 15 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/13 |
+| 18 | 2026-10-20 | Kamal Khatwani (via Claude) | Work (99%) on #13: Pictures on the install page: the block warning and Open Anyway | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/8 |
