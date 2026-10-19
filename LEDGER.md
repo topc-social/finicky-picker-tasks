@@ -32,3 +32,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 24 | 2026-10-20 | Kamal Khatwani (via Claude) | Work (99%) on #15: Pictures for install steps 1 and 4 (drag to Applications, default-browser prompt) | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/10 |
 | 25 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #16: Find fresh Reddit threads about links opening in the wrong browser profile, and draft replies | 15 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/16 |
 | 26 | 2026-10-20 | Kamal Khatwani (via Claude) | Work (99%) on #16: Find fresh Reddit threads about links opening in the wrong browser profile, and draft replies | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/11 |
+| 27 | 2026-10-20 | Kamal Khatwani | Idea (1%) for #20: Bug: Saved sites window opens on every link click | 8 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/20 |
+| 28 | 2026-10-20 | Kamal Khatwani (via Claude) | Work (99%) on #20: Bug: Saved sites window opens on every link click | 792 | provisional | https://github.com/kamal0808/profiley/pull/13 |
