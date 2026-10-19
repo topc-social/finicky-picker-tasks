@@ -8,3 +8,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 |---|---|---|---|---|---|---|
 | 1 | 2026-10-14 | Kamal Khatwani | Idea for #1: profile picker that learns | 15 | provisional | [#1](https://github.com/topc-social/finicky-picker-tasks/issues/1) |
 | 2 | 2026-10-14 | Kamal Khatwani | Work on #1: profile picker that learns | 1,485 | provisional | [#1](https://github.com/topc-social/finicky-picker-tasks/issues/1) |
+| 3 | 2026-10-19 | Kamal Khatwani | Idea (1%) for #7: Give Profiley a Developer ID account to sign and notarize with | 8 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/7 |
+| 4 | 2026-10-19 | Kamal Khatwani (via Claude) | Work (99%) on #7: Give Profiley a Developer ID account to sign and notarize with | 792 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/7 |
