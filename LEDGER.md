@@ -54,3 +54,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 46 | 2026-10-21 | Kamal Khatwani (via Claude) | Work (99%) on #28: Tell people when a new Profiley version is out | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/20 |
 | 47 | 2026-10-22 | Kamal Khatwani | Idea (1%) for #29: Get Profiley listed on awesome-mac and open-source-mac-os-apps | 9 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/29 |
 | 48 | 2026-10-22 | Kamal Khatwani (via Claude) | Work (99%) on #29: Get Profiley listed on awesome-mac and open-source-mac-os-apps | 841 | provisional | https://github.com/jaywcjlove/awesome-mac/pull/3728 |
+| 49 | 2026-10-22 | Kamal Khatwani | Idea (1%) for #30: List Profiley on AlternativeTo as an alternative to Finicky, Velja and Choosy | 4 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/30 |
+| 50 | 2026-10-22 | Kamal Khatwani (via Claude) | Work (99%) on #30: List Profiley on AlternativeTo as an alternative to Finicky, Velja and Choosy | 421 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/30 |
