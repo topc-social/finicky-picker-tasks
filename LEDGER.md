@@ -46,3 +46,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 38 | 2026-10-21 | Kamal Khatwani (via Claude) | Work (99%) on #21: Count installs and daily users, anonymously | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/12 |
 | 39 | 2026-10-21 | Kamal Khatwani | Idea (1%) for #25: Turn on Profiley's anonymous usage count (installs, daily users) | 8 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/25 |
 | 40 | 2026-10-21 | Kamal Khatwani (via Claude) | Work (99%) on #25: Turn on Profiley's anonymous usage count (installs, daily users) | 792 | provisional | https://github.com/kamal0808/profiley/pull/17 |
+| 41 | 2026-10-21 | Kamal Khatwani | Idea (1%) for #26: Site analytics: visits, wizard steps, downloads (cookieless) | 8 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/26 |
+| 42 | 2026-10-21 | Kamal Khatwani (via Claude) | Work (99%) on #26: Site analytics: visits, wizard steps, downloads (cookieless) | 792 | provisional | https://github.com/kamal0808/profiley/pull/18 |
