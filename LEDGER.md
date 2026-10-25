@@ -60,3 +60,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 52 | 2026-10-22 | Kamal Khatwani (via Claude) | Work (99%) on #32: LinkedIn video: "You need access" to the right profile, 10 seconds | 1,485 | provisional | https://github.com/kamal0808/profiley/pull/21 |
 | 53 | 2026-10-24 | Kamal Khatwani | Idea (1%) for #36: Profiley becomes one app: the default browser, no Finicky needed | 38 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/36 |
 | 54 | 2026-10-24 | Kamal Khatwani (via Claude) | Work (99%) on #36: Profiley becomes one app: the default browser, no Finicky needed | 3,762 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/36 |
+| 55 | 2026-10-25 | Kamal Khatwani | Idea (1%) for #37: Google can find Profiley: sitemap, IndexNow and a first how-to page | 28 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/37 |
+| 56 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #37: Google can find Profiley: sitemap, IndexNow and a first how-to page | 2,772 | provisional | https://github.com/kamal0808/profiley/pull/22 |
