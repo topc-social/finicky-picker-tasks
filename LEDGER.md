@@ -66,3 +66,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 58 | 2026-10-25 | Kamal Khatwani (via Claude) | Work (99%) on #38: Profiley on Google Search Console: verified, sitemap in, pages indexed | 792 | provisional | https://github.com/kamal0808/profiley/pull/23 |
 | 59 | 2026-10-26 | Kamal Khatwani | Idea (1%) for #39: List Profiley on Bing Webmaster, SaaSHub and Uneed | 13 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/39 |
 | 60 | 2026-10-26 | Kamal Khatwani (via Claude) | Work (99%) on #39: List Profiley on Bing Webmaster, SaaSHub and Uneed | 1,262 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/39 |
+| 61 | 2026-10-27 | Kamal Khatwani | Idea (1%) for #42: Stop ghost browser icons piling up in the Dock | 8 | provisional | https://github.com/topc-social/finicky-picker-tasks/issues/42 |
+| 62 | 2026-10-27 | Kamal Khatwani (via Claude) | Work (99%) on #42: Stop ghost browser icons piling up in the Dock | 792 | provisional | https://github.com/kamal0808/profiley/pull/25 |
