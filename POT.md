@@ -1,6 +1,6 @@
 # Profiley pot
 
-Money in and out of Profiley. Rules: `ecosystem/NEKI.md` in kamal0808/topc. Money in from a backer gives a backer claim (money back plus up to 15% a year, from profits only), never Neki. Money out pays whoever brings Profiley active customers: a fixed amount per active customer, taken from that month's ₹500 (decided Kamal, 2026-10-23). The amount and how "active" is counted are still to decide; until then nothing is paid out. Every row links a receipt or the decision behind it.
+Money in and out of Profiley. Rules: `ecosystem/NEKI.md` in kamal0808/topc. Money in from a backer gives a backer claim (money back plus up to 15% a year, from profits only), never Neki. Money out is paid in cash to people who work on Profiley, from that month's ₹500, two ways: take a task with a ₹ amount on it (a `cash:N` label), or pitch your own work and name your price; once Kamal agrees, the pitch becomes a task with that amount. Paid on accept (decided Kamal, 2026-10-27). Every row links a receipt or the decision behind it.
 
 UPI: kamalkhatwani69@okaxis (Kamal Khatwani). Backing goes to Kamal's own account until TOPC has a bank account; he adds each payment as a row below once it arrives.
 
